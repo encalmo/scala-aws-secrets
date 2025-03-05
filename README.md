@@ -1,3 +1,5 @@
+![Maven Central Version](https://img.shields.io/maven-central/v/org.encalmo/scala-aws-secrets_3?style=for-the-badge)
+
 # scala-aws-secrets
 
 This Scala 3 library provides a helper to access variables stored in AWS SecretsManager.
